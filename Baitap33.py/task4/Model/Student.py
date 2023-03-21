@@ -6,3 +6,4 @@ class Student(Person):
         self.math = math
         self.physics = physics
         self.chemistry = chemistry
+        

@@ -1,8 +1,8 @@
 import pandas as pd
 from DAO.Student import StudentDAO
 from Model.Student import Student 
-from ConnetDB.DBcontext import dbContext
-from Uitils import constant
+from ConnectDB.DBContext import dbContext
+from Utill import constant
 import traceback
 
 class StudentImplement(StudentDAO): 
